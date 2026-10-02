@@ -29,7 +29,6 @@
 - 💻 Practicing Data Structures & Algorithms using C++
 - 🌐 Building projects with React and modern web technologies
 - 🤖 Exploring Machine Learning, Data Analysis, and AI
-- 📚 Preparing for GATE DA 2027
 - 🚀 Interested in building practical software projects
 
 ---
@@ -125,7 +124,6 @@ A campus navigation prototype using graph representation and Breadth-First Searc
 - Strengthening DSA and problem-solving skills
 - Developing React and full-stack web projects
 - Learning Machine Learning and data analysis
-- Preparing for GATE DA 2027
 
 ---
 
